@@ -5,11 +5,11 @@ body {
 	font-size: 15px;
 	margin: 0;
 	padding: 0;
-	border-top: 10px solid #337693;
+	border-top: 10px solid #FF0000;
 }
 
 a {
-	color: #337693;
+	color: #FF0000;
 }
 a:link, a:active, a:visited {
 	text-decoration: none;
@@ -26,13 +26,13 @@ a:hover {
 
 #header {
 	color: #ccc;
-	font-size: 22px;
+	font-size: 40px;
 	font-weight: bold;
 	padding: 20px 0;
 }
 
 .site-name{
-	color: #337693;
+	color: rgb(253, 169, 173);
 	margin-bottom: 30px;
 }
 
@@ -98,23 +98,23 @@ h3 {
 	text-decoration: none;
 	padding: 10px 20px;
 }
-.hedding01{
+.heading01{
 	background-color: #886E52;
 	padding: 10px;
 	color: #fff;
 	-webkit-border-radius: 8px;
 	        border-radius: 8px;
 }
-.hedding02{
+.heading02{
 	color: #886E52;
 }
 
 #footer {
-	border-top: 1px solid #729DAF;
+	border-top: 20px solid #af7282;
 	font-size: 14px;
 	height: 15px;
 	padding: 40px 0 20px;
-	text-align: center;
+	text-align: right;
 }
 #footer a {
 	color: #777;
