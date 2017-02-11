@@ -5,11 +5,11 @@ body {
 	font-size: 15px;
 	margin: 0;
 	padding: 0;
-	border-top: 10px solid #337693;
+	border-top: 10px solid #FF0000;
 }
 
 a {
-	color: #337693;
+	color: #FF0000;
 }
 a:link, a:active, a:visited {
 	text-decoration: none;
