@@ -5,11 +5,11 @@ body {
 	font-size: 15px;
 	margin: 0;
 	padding: 0;
-	border-top: 10px solid #FF0000;
+	border-top: 10px solid #337693;
 }
 
 a {
-	color: #FF0000;
+	color: #337693;
 }
 a:link, a:active, a:visited {
 	text-decoration: none;
@@ -26,13 +26,13 @@ a:hover {
 
 #header {
 	color: #ccc;
-	font-size: 40px;
+	font-size: 22px;
 	font-weight: bold;
 	padding: 20px 0;
 }
 
 .site-name{
-	color: rgb(253, 169, 173);
+	color: #337693;
 	margin-bottom: 30px;
 }
 
@@ -110,7 +110,7 @@ h3 {
 }
 
 #footer {
-	border-top: 20px solid #af7282;
+	border-top: 20-px solid #af7282;
 	font-size: 14px;
 	height: 15px;
 	padding: 40px 0 20px;
